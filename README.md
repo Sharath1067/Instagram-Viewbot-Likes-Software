@@ -1,3 +1,5 @@
+Supported operating systems: Windows 10 (64 Bit) | 2004 - 21H2
+Supported processors: Intel & AMD (64 Bit) 
 
 
 ***DOWNLOAD*** :arrow_heading_down:
